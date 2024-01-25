@@ -14,7 +14,7 @@ Utilizei o "ChatGPT" para criar o roteiro do ebook, estruturar o conteúdo e ref
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/paulaalessandrars/lab-natty-or-not/blob/main/Educa%C3%A7%C3%A3o%20Financeira%20desde%20a%20Inf%C3%A2ncia.md)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
